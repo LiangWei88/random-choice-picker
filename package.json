@@ -2,7 +2,7 @@
   "name": "random-choice",
   "version": "0.0.1",
   "description": "random choice maker. pick an option from a list.",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "jasmine"
