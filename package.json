@@ -1,0 +1,28 @@
+{
+  "name": "random-choice",
+  "version": "0.0.1",
+  "description": "random choice maker. pick an option from a list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiangWei88/random-choice.git"
+  },
+  "keywords": [
+    "random",
+    "choice",
+    "picker",
+    "selector"
+  ],
+  "author": "LiangWei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiangWei88/random-choice/issues"
+  },
+  "homepage": "https://github.com/LiangWei88/random-choice#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
