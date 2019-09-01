@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/LiangWei88/random-choice#readme",
   "devDependencies": {
-    "jasmine": "^3.4.0"
+    "jasmine": "^3.4.0",
+    "typescript": "^3.6.2"
   }
 }
