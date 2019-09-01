@@ -4,7 +4,7 @@
   "description": "random choice maker. pick an option from a list.",
   "main": "./dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && npm run test",
     "test": "jasmine"
   },
   "repository": {

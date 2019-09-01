@@ -1,1 +1,4 @@
-export declare function add(a: number, b: number): number;
+export declare class Picker {
+    constructor();
+    private getSliceArea;
+}
