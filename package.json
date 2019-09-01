@@ -4,6 +4,7 @@
   "description": "random choice maker. pick an option from a list.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jasmine"
   },
   "repository": {
